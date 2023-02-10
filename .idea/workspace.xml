@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47449f36-8e2b-4a34-a61b-6ebf2523dfae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LUT4fYlLq9HMn0NjNQ5zRR0fRL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/js" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/js" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47449f36-8e2b-4a34-a61b-6ebf2523dfae" name="Default Changelist" comment="" />
+      <created>1675924472030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675924472030</updated>
+      <workItem from="1675924477428" duration="174000" />
+      <workItem from="1675924709809" duration="1937000" />
+      <workItem from="1675926699940" duration="1267000" />
+      <workItem from="1675928260285" duration="585000" />
+      <workItem from="1675928878498" duration="1786000" />
+      <workItem from="1675931326473" duration="901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="295" y="29" width="1000" height="837" key="#Project_Structure" timestamp="1675924496834">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="295" y="29" width="1000" height="837" key="#Project_Structure/0.0.1600.900@0.0.1600.900" timestamp="1675924496834" />
+    <state x="404" y="132" width="772" height="629" key="FileChooserDialogImpl" timestamp="1675924494297">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="404" y="132" width="772" height="629" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1675924494297" />
+    <state x="588" y="360" width="414" height="175" key="NewPhpFileDialog" timestamp="1675925359939">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="588" y="360" width="414" height="175" key="NewPhpFileDialog/0.0.1600.900@0.0.1600.900" timestamp="1675925359939" />
+    <state x="295" y="122" width="1000" height="652" key="Vcs.Push.Dialog.v2" timestamp="1675932089223">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="295" y="122" width="1000" height="652" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1675932089223" />
+    <state x="408" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1675931327399">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="408" y="238" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1675931327399" />
+  </component>
+</project>
