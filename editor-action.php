@@ -4,16 +4,16 @@ $conn = mysqli_connect("localhost","root","","test-editor" ) or die ("error" . m
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-if (isset($_GET['editor-content'])){
-$content = $_GET['editor-content'];
-$editor_content = mysqli_escape_string($content);
-$query = "INSERT INTO posts (content) VALUES ('$editor_content') ";
-$result = mysqli_query($conn , $query) or die(mysqli_error($conn));
-if (mysqli_affected_rows($conn) > 0) {
-    echo "<script> alert('Content posted successfully');
+if (isset($_POST['save'])) {
+	$content = $_POST['editor-content'];
+	$query = "INSERT INTO posts (content) VALUES (?)";
+	$stmt = mysqli_prepare($conn, $query);
+	mysqli_stmt_bind_param($stmt, "s", $content);
+	if (mysqli_stmt_execute($stmt)) {
+		echo "<script> alert('Content posted successfully');
                 window.location.href='index.php';</script>";
-}
-else {
-    "<script> alert('Error while posting..try again');</script>";
-}
+	}
+	else {
+		echo "<script> alert('Error while posting..try again');</script>";
+	}
 }

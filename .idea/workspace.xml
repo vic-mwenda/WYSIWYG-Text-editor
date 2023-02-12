@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47449f36-8e2b-4a34-a61b-6ebf2523dfae" name="Default Changelist" comment="" />
+    <list default="true" id="dfb02073-baff-4e0f-84bc-df126fb3129b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WYSIWYG Editor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WYSIWYG Editor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor-action.php" beforeDir="false" afterPath="$PROJECT_DIR$/editor-action.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2LUT4fYlLq9HMn0NjNQ5zRR0fRL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2LYvqX09X3scxGYKVrYbvQo0OiD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,17 +30,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/js" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/js" />
-    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -53,17 +51,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="47449f36-8e2b-4a34-a61b-6ebf2523dfae" name="Default Changelist" comment="" />
-      <created>1675924472030</created>
+      <changelist id="dfb02073-baff-4e0f-84bc-df126fb3129b" name="Default Changelist" comment="" />
+      <created>1676061028933</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675924472030</updated>
-      <workItem from="1675924477428" duration="174000" />
-      <workItem from="1675924709809" duration="1937000" />
-      <workItem from="1675926699940" duration="1267000" />
-      <workItem from="1675928260285" duration="585000" />
-      <workItem from="1675928878498" duration="1786000" />
-      <workItem from="1675931326473" duration="901000" />
+      <updated>1676061028933</updated>
+      <workItem from="1676061058948" duration="1845000" />
+      <workItem from="1676062979287" duration="1839000" />
+      <workItem from="1676064913216" duration="1739000" />
+      <workItem from="1676066691224" duration="1917000" />
+      <workItem from="1676199808060" duration="1697000" />
+      <workItem from="1676201712254" duration="1418000" />
+      <workItem from="1676203697764" duration="934000" />
+      <workItem from="1676219237201" duration="1716000" />
+      <workItem from="1676221106058" duration="2054000" />
+      <workItem from="1676223250780" duration="213000" />
     </task>
     <servers />
   </component>
@@ -71,25 +73,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="29" width="1000" height="837" key="#Project_Structure" timestamp="1675924496834">
+    <state x="295" y="29" width="1000" height="837" key="#Notifications" timestamp="1676062143318">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="295" y="29" width="1000" height="837" key="#Project_Structure/0.0.1600.900@0.0.1600.900" timestamp="1675924496834" />
-    <state x="404" y="132" width="772" height="629" key="FileChooserDialogImpl" timestamp="1675924494297">
+    <state x="295" y="29" width="1000" height="837" key="#Notifications/0.0.1600.900@0.0.1600.900" timestamp="1676062143318" />
+    <state x="150" y="73" width="1280" height="748" key="MergeDialog" timestamp="1676062041417">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="404" y="132" width="772" height="629" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1675924494297" />
-    <state x="588" y="360" width="414" height="175" key="NewPhpFileDialog" timestamp="1675925359939">
+    <state x="150" y="73" width="1280" height="748" key="MergeDialog/0.0.1600.900@0.0.1600.900" timestamp="1676062041417" />
+    <state x="441" y="101" width="708" height="693" key="MultipleFileMergeDialog" timestamp="1676062041431">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="588" y="360" width="414" height="175" key="NewPhpFileDialog/0.0.1600.900@0.0.1600.900" timestamp="1675925359939" />
-    <state x="295" y="122" width="1000" height="652" key="Vcs.Push.Dialog.v2" timestamp="1675932089223">
+    <state x="441" y="101" width="708" height="693" key="MultipleFileMergeDialog/0.0.1600.900@0.0.1600.900" timestamp="1676062041431" />
+    <state x="588" y="360" width="414" height="175" key="NewPhpFileDialog" timestamp="1676220955333">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="295" y="122" width="1000" height="652" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1675932089223" />
-    <state x="408" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1675931327399">
+    <state x="588" y="360" width="414" height="175" key="NewPhpFileDialog/0.0.1600.900@0.0.1600.900" timestamp="1676220955333" />
+    <state x="408" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1676223259447">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="408" y="238" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1675931327399" />
+    <state x="408" y="238" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1676223259447" />
+    <state x="544" y="198" width="512" height="499" key="git4idea.merge.GitMergeDialog" timestamp="1676062135364">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="544" y="198" width="512" height="499" key="git4idea.merge.GitMergeDialog/0.0.1600.900@0.0.1600.900" timestamp="1676062135364" />
   </component>
 </project>
